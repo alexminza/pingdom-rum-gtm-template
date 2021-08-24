@@ -1,5 +1,7 @@
 homepage: "https://github.com/alexminza/pingdom-rum-gtm-template"
 documentation: "https://github.com/alexminza/pingdom-rum-gtm-template"
 versions:
+  - sha: 0a5db53e54908cebe86f7e71cbd9eab1b7e6e26f
+    changeNotes: Template name and description update
   - sha: b4e2be36fb8ba7eec0ef21843e6de53ac9441a8f
     changeNotes: Initial release
